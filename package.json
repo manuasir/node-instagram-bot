@@ -1,0 +1,17 @@
+{
+  "name": "ig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-web-api": "^2.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
